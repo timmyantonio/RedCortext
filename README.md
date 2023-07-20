@@ -1,1 +1,1 @@
-# RedCortext
+# Red Cortext Technical test
