@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedCortex", "RedCortex\RedCortex.csproj", "{9A119977-5EFB-4314-982E-3A5451AFBF74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A119977-5EFB-4314-982E-3A5451AFBF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A119977-5EFB-4314-982E-3A5451AFBF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A119977-5EFB-4314-982E-3A5451AFBF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A119977-5EFB-4314-982E-3A5451AFBF74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A53C35C8-990D-4D37-8FE7-FFD126BB4A25}
+	EndGlobalSection
+EndGlobal
